@@ -1,0 +1,12 @@
+# PyInstaller folders
+build/
+dist/
+*.spec
+
+# Python cache
+pycache/
+*.pyc
+
+# Virtual environments
+venv/
+.env
